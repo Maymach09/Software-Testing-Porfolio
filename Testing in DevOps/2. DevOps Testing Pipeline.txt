@@ -1,0 +1,95 @@
+Continuous Integration:
+    - Build
+    - Package
+    - Test
+
+Automated Tests:
+    - Unit tests
+    - Integration Tests
+    - Other Tests - UI
+
+Benefits:
+    - Building features
+    - Frequent integrations
+    - Shorter period b/w integrations
+    - Increased visibility
+    - Cathci ssues earlier, less time debugging, more time to add features
+    - Fast feebback
+
+Continuous Delivery:
+    - Automating the delivery of applications
+    - one or more environments
+    - Manual deployment to Production
+
+Cotinuous Deployment:
+    - Automatic deployment to Production
+    - Each passing Build
+    - Should be complemented with continuous Testing
+
+Continuous Testing:
+    - Starts early, often, everywhere, Automated
+
+Benefits of Continuous Testing:
+    - Faster delivery
+    - Code quality is good
+    - Assessing business risk
+    - Makes the process agile and reliable
+    - United teams
+    - Reduces time to market
+    - Facilitates Continuous Feedback
+    - Consistency
+    - Mitigate business risk
+    - Virtualized test environments
+
+Challenges of Continuous Testing
+    - Cultutral shift
+    - Need DevOps skills
+    - Need relevant Tools
+    - Production vs test environments
+    - TDM
+    - Integration cycles
+    - Ineffective Resources
+    - Inadequate Resources
+    - Ineffective test environments
+    - Complex Architecture or business logic
+
+Continuous Testing tools:
+    - Jenkins 
+        - CI/CD tool
+        - Automation server
+        - Integration capabilites
+        - Easy configuration
+        - Extensable
+    - Travis CI
+        - GitHub Repo
+        - Automatic Deployments
+        - Pre-installed DBs and services
+        - Cross platforma - android, iOS.
+    - Circle CI
+        - Resource Configuration
+        - Extensive docker support
+        - Comp dashboards
+        - Multiple Coding languages
+    - Selenium
+        - Webdriver -browser Automation
+        - IDE - browser autoamtion,
+              - Chrome, firefox, record, playback
+
+Challenges to Test Automation:
+    - Effective communication/collaboration
+    - Skilled Resources
+    - Selecting test approach
+    - Selecting proper tools
+    - High initial Investment
+
+Code Version control:
+    - git
+    - GitHub
+
+Circle CI Continuous Integration
+    - 
+
+Docker hub
+
+VirtualBox and Vagrant
+
