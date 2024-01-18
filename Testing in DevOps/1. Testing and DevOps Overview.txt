@@ -1,0 +1,79 @@
+DevOps is CALMS:
+    Culture
+    Automation
+    Lean - Agile Development, Cont. Improvement,
+    Measurement - measuring KPI, acros entire lifecycle - time to deployment, recovery time, user trends
+    Shraing - Sharing responsibility among teams
+
+DEV:
+    Plan --> Branch --> Code --> Build
+
+OPS:
+    Release --> Deploy --> Operate --> Monitor
+
+Agile:
+    Development
+    Testing
+    deployment
+
+DevOps Pipleline/CICD Pipleline:
+    Code
+    Build
+    Test
+    Package
+    Release
+    Monitor
+    Configure - Infrastructure as Code Tools
+
+DevOps Principles:
+    Build, test & Release
+        - Continuos Testing
+            - Test early & everywhere
+            - Fail early
+
+Test Strategy:
+    - Deployment Pipleline
+    - Pairing
+    - Bug Bash
+    - Feature Toggles
+    - Crowdsourced Testing
+    - Monitoring as Testing
+    - A/B Testing
+    - Beta Testing
+    - Canary Release
+    - Staged Rollout
+    - Dogfooding
+    - Dark Launching
+    - Environment Management
+    - Infra as code Testing
+    - Destructive Testing
+
+Testing in Development:
+    - Deployment Pipeline:
+            - Static Analysis
+            - Functional and Non functional tests
+            - Unit, integration and E2E tests
+            - Deployment Scripts
+            - Build Code
+    - Feature Toggles
+    - Bug Bash
+    - Crowdsourced Testing
+
+Testing in Production:
+    - Feedback
+    - A/B Testing
+    - Beta Testing
+    - Monitoring as Testing
+    - Controlled exposure tets - Canary release, Dogfooding, staged rollout, Dark Launching
+
+DevOps Testing - Best Practices:
+    - Microservice Architecture
+    - Automate where possible
+    - Embrace Continuous
+    - Documentation, metrics  
+
+Feedback:
+    - JIRA
+
+
+    
