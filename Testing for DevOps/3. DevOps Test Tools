@@ -1,0 +1,68 @@
+Continuos Testing:
+    - Unit Testing
+    - Integration
+    - UI
+    - Load/performance
+    - Manual/Exploratory
+
+DevOps Test Tools Types:
+    - For Development
+    - Build
+    - Config Management Tools
+    - Monitoring Tools
+    - Deployment tools
+
+Test Tool Selection Considerations:
+    - To support continuos Testing
+    - Version Control
+    - Testable Infrastructure
+    - Virtual Test Environment
+    - Continuos Improvement
+    - Automation
+
+DevOps and Test Automation:
+    - Automate test processes
+    - Select specialized tools for automation, CI, Testing framework, test scripts
+
+DevOps and Test Optimization:
+    - Speed of delivery
+    - Right balance of Testing
+    - Optimize overall test strategy
+        - Speed
+        - Efficiency
+    - Identify risky areas
+    - Rerpoting Risks
+    - Review Test Plans
+    - Review the entire processes
+
+DevOps Foundation:
+    - Agile
+    - Incremental
+    - Release
+DevOps Focus:
+    - Customers
+    - Quick delivery
+    - Automation
+    - Feedback
+DevOps Collaboration
+
+DevOps Test Strategy:
+    - Testing scope and role have changed
+    - Occurs over entire SDLC
+    - Larger role as QA professionals
+        - Testing in operations
+        - Security Testing
+        - Monitor and analyze
+        - load and performance
+
+Test Driven Development Tools:
+    - BDD tools - Cucumber
+
+Apache JMeter Load Test Tool:
+    - Plan and execute test Plans
+
+Selenium Web browser Automation:
+
+Chef Infrastructure Configuration with Chef:
+
+

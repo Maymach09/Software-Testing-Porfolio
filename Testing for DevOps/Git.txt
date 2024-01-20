@@ -1,0 +1,13 @@
+Git
+
+It's a tool/skill which: 
+1. helps to Track the changes
+2. helps in Collaboration
+
+GitHub:
+    It's a website:
+        1. Can be used to showcase your projects
+        2. Repositories
+
+
+
