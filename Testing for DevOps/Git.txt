@@ -52,3 +52,24 @@ Merging Code:
     - git merge main (to merge into main branch)
 - Second method:
     - Create PR
+
+Pull command - to fetch and download content from a local repo and immediately update the local repo to match that content
+    - git pull origin main
+
+Resolving Merge Conflicts:
+
+Undoing changes:
+    Case 1:
+        - staged changes:
+            git reset <filename>
+            git reset
+    Case 2:
+        - git reset HEAD~1
+    Case 3:
+        - git reset <commit hash>
+        - git reset --hard <commit hash>
+
+Fork:
+    Fork is a new repo thats shares code and visibility settings with the original "upstream" repo.
+    Fork is a rough copy.
+
