@@ -12,4 +12,5 @@ It contains:
 8. Test results
 9. Traceability Matrix
 10. API Test Cases
+11. DevOps training notes
 
