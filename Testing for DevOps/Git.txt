@@ -9,5 +9,34 @@ GitHub:
         1. Can be used to showcase your projects
         2. Repositories
 
+    1. Create a repository
+    2. Add readme.md
+    3. Add details about project in readme.
+
+Git setup:
+1. Download Visual Studio
+2. For windows download Gitbash
+
+git commands:
+    git --version  - to know the git version
+    git config --list - to know the configuration of git setup
+    git clone <-some link-> - to copy repository on local machine 
+    ls/dir - to get all the files in the folder
+    ls -a/dir /a:h - to get hidden files
+    git status - to get the status of Code
+        - untracked - new file that was never staged
+        - modified - changed
+        - staged - file is yet to be committed
+        - unmodified - after committ
+    git add <file name> - to add the files to staged state
+    git commit -m "message" - adds new or changed files in your working  directory
+    git push origin main - to upload local repo content to global repo
+    init - to create a new git repo
+        - git init
+        - git remote add origin <link>
+        - git remote -v (to verify remote)
+        - git branch (to check branch)
+        - git branch -M main (to rename branch)
+        - git push origin main (-u to create shortcut to push to main)
 
 
