@@ -47,3 +47,8 @@ Create Branches:
 - git branch -d <branch name> (to delete branch)
 
 Merging Code:
+- First method:
+    - git diff main (to find difference between branches)
+    - git merge main (to merge into main branch)
+- Second method:
+    - Create PR
