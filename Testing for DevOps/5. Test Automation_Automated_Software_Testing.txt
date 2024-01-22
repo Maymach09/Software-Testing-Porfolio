@@ -1,0 +1,192 @@
+Test Automation:
+
+Characteristics:
+    - Business Knowledge
+    - Technical ability
+    - know when to automate
+
+How to become AM:
+    - basic knowledge of software development
+    - Master Test automation frameworks
+    - Collaborate with developers
+    - Automate as much as possible
+    - Be fearless
+
+Best Practices:
+    - Understand manual testing
+    - programming skills
+    - Understand software application
+    - Exposure to test tools
+    - Develop automation test strategy
+    - Automation test life cycle
+    - Latest trends
+
+Mindset:
+    - how can software be messed with?
+    - how to break the s/w
+    - ability to find bugs
+
+Autoamted test suites:
+    - should Scale testing
+    - Allow refactoring of large applications
+    - Should be quick and stable
+
+Goals:
+    - Critical code coverage
+    - Fast tests
+    - frequent tests
+    - reliable tests
+    - minimize total tests
+
+Testing types:
+    - Unit tests
+    - Component tests
+    - Integration tests
+    - System integration tests
+    - Performance and load tests
+    - Manual tests
+    - Security tests
+
+Agile Automated Testing:
+    - Quadrant 1:
+        - Automated - quality of code, unit and Component
+    - Quadrant 2:
+        - Requirements - business testing
+    - Quadrant 3:
+        - Manual - exploratory, usability, pair testing
+    - Quadrant 4:
+        - Non functional - load, performance, scalability
+
+Agile Automated testing plan:
+    - Testing Scope
+    - Type and level of testing
+    - New functionality
+    - Load and perfromance
+    - Infrastructure reviews
+    - Available resources
+    - Mitigation or risk plan
+    - Deliverables and milestones
+
+Agile Lifecycle:
+    - Iteration 0
+    - Construction iterations - most of the testing
+    - Release (end game) - ready for release
+    - Productions
+
+Agile testing risks:
+    - Costly
+    - Does not replace manual testing
+    - Unreliable tests or user stories
+    - relying on macro-recording tests
+    - part of CI process
+    - inadequate test plan
+    - failing to include setup and tear down scripts
+    - high level of maintainence
+    - metrics may be misleading
+    - lack of training and expertise
+    - lack of communication and collaboration
+    - should be focused on valuable features
+
+Agile vs DevOps:
+    - Deployment speed
+    - Team specialization
+    - software development
+    - communication
+    - documentation
+    - scheduling timeframes
+    - teams
+    - Automation
+
+DevOps Test Automation factors:
+    - Test data
+    - Steering parameters should be used than copying test cases mutiple times
+    - Test servers and virtualization
+    - Use of test user accounts
+    - Continuous testing and integration
+
+Test Automation and DevOps:
+    - Supports cotinuous development
+    - Coordination required amongst stakeholders
+    - All process must be Automated
+
+DevOps Test Automation practices:
+    - Set achievable expectations
+    - Ensure test automation is adopted
+    - Dedicated resources are assigned
+    - Decide on a starting point
+    - Should be included in definition of done
+    - Review and adapt - continuous improvement
+
+Automation testing pitfalls:
+    - Test Mindset
+    - ineffective debugging
+    - Non reproducible defects - three times
+    - Rigid automation framework
+
+Automated testing Platforms:
+    - Web applications
+    - Web services - SOAP, REST, WSDL
+    - Mobile applications - Simulator, emulator, real device
+    - Desktop applications - UI, compatibility, functional, performance
+
+Types of Automated Tests:
+    - All weblinks
+    - forms and validations
+    - cookies - cookie sessions, cookies clear
+    - content and style
+    - End to End business workflows
+    - Uability testing - site navigation, spelling and grammar, image "alt" text
+    - Interface testing
+    - DB testing
+    - Performance testing
+    - Security testing
+
+Automated vs manual testing:
+
+Test cases to autoamte:
+    - business Critical
+    - repetitive
+    - tedious
+    - time consuming
+TC not to automate:
+    - unproven
+    - changing Requirements
+    - part time
+
+Automated testing process:
+    - Test Tool selection
+    - scope of testing
+    - Plan design and develop
+    - running test
+    - maintenance
+
+Automation scope:
+    - high business vaklue
+    - technically feasible
+    - with large data
+    - complexity of test cases
+    - common functionalities
+    - reuseability of business components
+
+Automation testing frameworks:
+    - Data driven
+    - modular
+    - keyword driven
+    - hybrid driven
+
+Guidelines:
+    - Maintain consistency of testing
+    - minimizes code usage
+    - improves test structuring
+    - allows for less code maintenance
+    - Improves reuseability
+    - decrease training period
+    - allows for non technical testers to write code
+    - improves testing process
+
+Testing tool:
+    - Support for your platforma and technology
+    - Allows easy creation of tests
+    - flexibility for testers of all skill level
+    - create reusable, maintenable and resilient tests
+
