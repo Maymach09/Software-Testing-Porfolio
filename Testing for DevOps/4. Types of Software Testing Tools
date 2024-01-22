@@ -1,0 +1,63 @@
+Types of software testing tools
+
+Automated Testing tools
+    - Selenium
+        - IDE - lightweight(prototype testing)
+            - firefox or chrome add on
+        - Webdriver (browser automation)
+            - calls directly to the browsers
+            - faster than IDE RC
+            - Supports all browsers
+        - Grid 
+            - runs tests concurrently on different machines 
+            - and different browsers
+            - uses hub and nodes structure
+    - Katalon Studio:
+        - Simple deployment
+        - Easy to configure and setup
+        - Quick development and turn around time
+        - Support for recording test macros
+        - Full IDE allows complec scripts
+    Pros and Cons:
+        - No fees
+        - Growing community
+        -Dependent on Selenium
+        - Limited language support - Java and Groovy
+    Testing support:
+        - API test types: Validation testing, Error detection testing, Functional Testing, Security Testing, Load Testing, Penetration testing
+        - Mobile testing
+        - Web
+
+
+REST API testing tools
+    -SOAP UI
+        - API testing
+        - Load Testing
+        - Security Testing
+
+
+Load testing tools
+    - NeoLoad
+        - 
+
+Relational DB testing tools
+    - Strutural testing
+        - Structure of DB e.g. schema, table, column, stored procedure, triggers, db server
+    - Functional testing
+        - Stored data, stored procedure, db functions, transactions, transaction rollback
+    - Non Functional testing 
+        - load, stress testing
+    - User secutiry testing
+        - uname and passwords, user roles, permission levels, encryption
+
+Unit Testing tools
+    - Isolates section of code
+    - early bug detection
+    - Verify correctness
+    - understand codebase
+    - test entire codebase
+    - encourage code reuse
+    Xunit.net, Junit, Nunit, PHPUnit
+    
+
+
