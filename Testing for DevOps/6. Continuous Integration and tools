@@ -1,0 +1,150 @@
+Continuous Integration:
+    - Small code changes integrated daily
+    - single repo
+    - code commit initiates a build
+    - Automated test validates code correctness
+
+Continuous Delivery:
+    - Production ready code
+    - One click deployments
+
+Continuous Integration & deployments:
+    - Set up code repo
+    - Select a suitable CI/CD delivery service
+    - Create tests and configure them
+
+CI Tests:
+    - Unit tests
+    - Integration Tests
+    - Load/Performance Tests
+    - Se unit test framewerks
+
+CI/CD Tool Selection:
+    - Open source, proprietary, custom solution
+    - Hosted internally or in the cloud
+    - Usability, cost, learning curve, support and reporting
+    - Integration, security, data storage, retention
+
+Benefits of CI:
+    - Shortened lifecycle and product development
+    - Improved code quality and testing coverage
+    - Stable production ready code
+    - Consistent and repeatable build process
+
+CI Best Practices:
+    - Use version control tools
+    - Daily mainline commits
+    - Virtual test environments
+        - clone prod environments
+        - always start with pfresh environments
+        - create environments on demand (infrastructure as code)
+    - Automate and release often
+    - Build Reports and logs
+
+CI common mistakes:
+    - Slow deployment pipeline
+    - Slow unreliable feedback
+    - simplistic db testing
+    - Ineffective logging and metrics
+
+Reasons for CI:
+    - Less chance of breaking codebase
+        - fewere code conflicts
+        - validated and tested
+        - easier to debug
+    - improved code quality
+    - Avoid traditional Integration issues
+        - conflicts and limitations to scale
+    - Quick software delivery
+
+CI and Automated testing:
+    - Small code changes to test
+    - results are Consistent
+    - faster testing
+    - better reporting and metrics
+
+- Developers should create tests
+
+CI/CD Pipeline:
+    - Integrate code
+    - Build code
+    - Run Automated tests
+    - Deploy code
+    - Monitor and report
+
+Continuous Testing:
+    -Automation tools
+    - test scripts
+    - automated testing frameworks
+
+CI/CD Pipeline:
+    - Code Creation
+        - modules are created - unit tests, code peer review, perform code analysis
+    - Code Integration:
+        - unit tests
+        - integration tests
+        - logging and feedback
+    - Code Validation
+        - performance
+        - functional
+        - security
+        - logging and tracking the feedback
+    - Code Deployment:
+        - Automated deployments
+        - Zero down time deployment
+
+Automated Testing and CI/CD pipeline:
+    - Run tests during build stage
+    - Use a dedicated build server
+    - perform parallel testing
+Best Practices:
+    - Perform Parallel testing
+    - small incremental changes
+    - Automate only when feasible
+
+Reason for CI/CD Test Automation:
+    - Increase trust in codebase
+    - Discover bugs earlier in the pipeline
+    - improves testing and deployment process
+
+CI/CD Tools:
+    - Jenkins
+    - Bamboo - single workflow
+    - Cicle CI - leader in CI/CD pipeline
+
+CI delivery and deployment:
+    - CI - Automated build and test process
+        - Merge changes to main branch
+        - changes trigger builds
+        - Automated tests performed
+    - CDel - Automated build, test and staging release process
+        - Automated release process
+        - Code moved to target environments
+        - Release small changes
+    - CDep - Automated build, test, release and production deployment process
+        - Changes move through CI/CD pipeline
+        - automated move to prod
+        - accelerates customer feedback loop
+
+Moving towards CDep:
+    - Deployments to staging
+    - automate basic unit tests
+    - Continue to improve the deployment process
+
+CI Tools:
+    - Source Control tools:
+        - Github, bitbucket
+    - Testing frameworks and tools
+        -Nunit, Junit, TestNG
+    - Build Automated tools:
+        -Jenkins
+        - CircleCI
+        - Bamboo
+        - TeamCity
+    - Automated Deployment tools:
+        - Octopus deploy
+        - Google cloud deployment manager
+        - AWS deployment manager
+
+CircleCI:
+    

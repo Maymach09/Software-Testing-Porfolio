@@ -1,0 +1,26 @@
+
+Step1: Learn a programming language
+    1. Plan
+    2. Code
+
+Step2: Learn tools
+    3. Build
+    4. Deploy
+        - Build tool 
+        - Source Code Management tool - Github, bitbucket
+        - CI/CD - Jenkins
+        - Containers - Docker, Kubernetes
+Step3: Learn how to integrate and run tests from CMD or CICD
+    5. Test
+
+Step4: Learn Cloud service - Azure
+Step5: Learn configuration management tool
+        - Chef
+        - Puppet
+        - ansible
+Step6: Learn logging and monitoring tools:
+
+    6. Release
+    7. Configuration
+    8. Monitor
+
