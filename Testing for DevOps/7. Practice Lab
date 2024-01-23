@@ -22,6 +22,9 @@ Working with Testing Pipleline
 Build a virtual testing environment using Oracle VirtualBox.
 
     - Install and configure Oracle VirtualBox
+        - Install VirtualBox
+        - Download puppet VM
+        - Import puppet VM appliance in VirtualBox
     - Create a Virtual Machine
     - Start a Virtual Machine
     - Clone a Virtual Machine
@@ -37,3 +40,4 @@ Distinguish between CI and CD tools
 Recognize how Jenkins automates code promotion
 Build quality into the promotion process
 Monitor the code promotion pipeline
+
