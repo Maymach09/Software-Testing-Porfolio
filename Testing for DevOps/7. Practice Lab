@@ -1,0 +1,28 @@
+Excercise 1:
+Software testing and DevOps Methodology
+
+Tasks:
+Use the CALMS framework to evaluate and identify readiness for DevOps.
+
+    - Forecast the ROI associated with automating a process
+    - Plan for automated software development and upgrades
+    - Document cost saving by eliminating resources
+    - Measure future deployments as a forecast model
+    - Assess sharing between Agile software teams
+    - Contrast CALMs against other methodologies
+
+Tools:
+    1. Confluence - Monitor code check ins
+    2. JIRA - Monitor Code performance
+    3. matters - DevOps self assessment
+
+Excercise 2:
+Working with Testing Pipleline
+
+Build a virtual testing environment using Oracle VirtualBox.
+
+    - Install and configure Oracle VirtualBox
+    - Create a Virtual Machine
+    - Start a Virtual Machine
+    - Clone a Virtual Machine
+    - Import and Export a Virtual Machine
