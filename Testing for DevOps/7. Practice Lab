@@ -15,7 +15,7 @@ Tools:
     1. Confluence - Monitor code check ins
     2. JIRA - Monitor Code performance
     3. matters - DevOps self assessment
-
+          
 Excercise 2:
 Working with Testing Pipleline
 
@@ -26,3 +26,14 @@ Build a virtual testing environment using Oracle VirtualBox.
     - Start a Virtual Machine
     - Clone a Virtual Machine
     - Import and Export a Virtual Machine
+
+
+Tasks:
+Compare and contrast DevOps testing tools used for code promotion.
+
+Use GIT to manage a codebase
+Explore different DevOps code promotion tools
+Distinguish between CI and CD tools
+Recognize how Jenkins automates code promotion
+Build quality into the promotion process
+Monitor the code promotion pipeline
