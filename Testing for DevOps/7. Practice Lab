@@ -30,9 +30,13 @@ Build a virtual testing environment using Oracle VirtualBox.
     - Clone a Virtual Machine
     - Import and Export a Virtual Machine
 
+<<<<<<< HEAD
 Excercise 3:
 Using DevOps Code promotion
 
+=======
+ 
+>>>>>>> 30afce5e4a5ba2b1918c6b1036a48e7915020ef4
 Tasks:
 Compare and contrast DevOps testing tools used for code promotion.
 
